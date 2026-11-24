@@ -1,1 +1,5 @@
-
+{
+  "id": "evt_123",
+  "amount": "2500",
+  "currency": "usd"
+}
