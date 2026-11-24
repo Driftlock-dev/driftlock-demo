@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "fields": {
+    "$.id": { "type": "str", "required": true, "nullable": false },
+    "$.amount": { "type": "int", "required": true, "nullable": false },
+    "$.currency": { "type": "str", "required": true, "nullable": false }
+  }
+}
